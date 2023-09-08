@@ -5,65 +5,96 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2194be61-b909-4f28-b463-19b3bf0a7bc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectoSBO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracto/ejemplo1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracto/ejemplo1/MainAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracto/ejemplo1/Perro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracto/ejemplo2/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracto/ejemplo2/CarroDeportivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracto/ejemplo2/MainCarro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracto/ejemplo3/Casa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracto/ejemplo3/CasaDeCampo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracto/ejemplo3/CasaDeCiudad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracto/ejemplo3/MainCasa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_interfaces/ejemplo1/Estudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_interfaces/ejemplo1/EstudianteAbstracto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_interfaces/ejemplo1/EstudiantePostgrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_interfaces/ejemplo1/EstudiantePregrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_interfaces/ejemplo1/MainEstudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_interfaces/ejemplo2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_interfaces/ejemplo2/ICar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_interfaces/ejemplo2/MainCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listas/ejemplo1/Estudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listas/ejemplo1/ListaEstudiantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listas/ejemplo1/MainEstudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listas/ejemplo2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CRUDejer/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CRUDejer/CatDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CRUDejer/CatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejemplo1/PrincipalProducto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejemplo1/dto/ProductoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejemplo1/interfaces/IProducto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejemplo1/service/ObjectSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejemplo1/service/ProductoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejemplo2Arrays/VistaPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejemplo2Arrays/dto/MascotaDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejemplo2Arrays/interfaces/IMascotaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejemplo2Arrays/service/MascotaServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2UnLC62Vu30S4JealjGOsenprqG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "C:/Users/ELIANA/IdeaProjects/proyectoSBO/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ELIANA/IdeaProjects/proyectoSBO/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ELIANA\IdeaProjects\proyectoSBO\src" />
+      <recent name="C:\Users\ELIANA\IdeaProjects\proyectoSBO\CRUD-serializacion\.idea" />
+      <recent name="C:\Users\ELIANA\IdeaProjects\proyectoSBO\src\CRUDserialización\ejemplo1" />
+      <recent name="C:\Users\ELIANA\IdeaProjects\proyectoSBO\src\CRUDserialización" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.VistaPrincipal">
+    <configuration name="PrincipalProducto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejemplo1.PrincipalProducto" />
+      <module name="proyectoSBO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejemplo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VistaPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejemplo2Arrays.VistaPrincipal" />
+      <module name="proyectoSBO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejemplo2Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VistaPrincipal" />
+        <item itemvalue="Application.PrincipalProducto" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
