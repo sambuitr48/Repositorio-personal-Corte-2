@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2194be61-b909-4f28-b463-19b3bf0a7bc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CRUDejer/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CRUDejer/CatDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CRUDejer/CatService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplo1/PrincipalProducto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplo1/dto/ProductoDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplo1/interfaces/IProducto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplo1/service/ObjectSerializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplo1/service/ProductoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplo2Arrays/VistaPrincipal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplo2Arrays/dto/MascotaDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplo2Arrays/interfaces/IMascotaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplo2Arrays/service/MascotaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/claseEnum/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/claseEnum/Direccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicioCrud/CatDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicioCrud/CatSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicioCrud/CatServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicioCrud/ICat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -30,6 +24,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
